@@ -30,4 +30,4 @@ F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 那么你应该将下载的PotionCraft.Scripts.dll文件放置到：
 F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 
-[0]: https://github.com/BepInEx/BepInEx/releases
+[0]: https://github.com/ukersn/PotionCraftOpenRecipeButtonFix/releases/tag/v2.0.1.2
