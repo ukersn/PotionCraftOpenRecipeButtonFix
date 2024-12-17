@@ -6,7 +6,7 @@ I have modified the game's PotionCraft.Scripts.dll file to resolve this issue. N
 
 # Installation Instructions 
 
-1. Download the Release (named PotionCraft.Scripts.zip) from the right side of this project page and unzip to get the PotionCraft.Scripts.dll file.
+1. Download the [Release][0] (named PotionCraft.Scripts.zip) from the right side of this project page and unzip to get the PotionCraft.Scripts.dll file.
 2. Backup and replace the file with the same name (PotionCraft.Scripts.dll) in your game directory, usually under Potion Craft\Potion Craft_Data\Managed.
 
 Complete directory example:
@@ -22,10 +22,12 @@ F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 
 # 安装说明
 
-1. 在右侧找到并下载本项目的Release (名称为PotionCraft.Scripts.zip)，并解压得到PotionCraft.Scripts.dll文件。
+1. 在右侧找到并下载本项目的 [Release][0] (名称为PotionCraft.Scripts.zip)，并解压得到PotionCraft.Scripts.dll文件。
 2. 备份并替换您的游戏中同名的PotionCraft.Scripts.dll文件，通常是在Potion Craft\Potion Craft_Data\Managed目录下。
 
 完整的目录示例：
 (假设您的本地游戏文件在路径 F:\SteamLibrary\steamapps\common\Potion Craft)
 那么你应该将下载的PotionCraft.Scripts.dll文件放置到：
 F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
+
+[0]: https://github.com/BepInEx/BepInEx/releases
