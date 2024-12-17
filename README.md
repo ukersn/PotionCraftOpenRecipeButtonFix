@@ -1,23 +1,31 @@
 # PotionCraft_OpenRecipeButtonFix
 
-This mod is Compatible with Potion Craft v2.0。
+This mod is Compatible with Potion Craft v2.0.1.2.
 
-This is a small plugin I developed myself to fix an issue where the collision box of the recipe book button grows larger as you play the game. When you click the recipe book button to open the recipe book, this plugin will check the button's collider. If it has increased in size, the plugin will reset it to its original dimensions.
+I have modified the game's PotionCraft.Scripts.dll file to resolve this issue. Now you don't need any additional plugin frameworks. Simply replace the file to fix the recipe book button problem. Please note that if the game updates, you may not be able to use this file.
 
 # Installation Instructions 
 
-1. Download and install [BepInEx_x64_5.4.22][0] from GitHub
-2. Unzip ClassLibrary1.dll to Potion Craft\BepInEx\plugins folder。
+1. Download the Release (named PotionCraft.Scripts.zip) from the right side of this project page and unzip to get the PotionCraft.Scripts.dll file.
+2. Backup and replace the file with the same name (PotionCraft.Scripts.dll) in your game directory, usually under Potion Craft\Potion Craft_Data\Managed.
+
+Complete directory example:
+(Assuming your local game files are in the path F:\SteamLibrary\steamapps\common\Potion Craft)
+You should place the downloaded PotionCraft.Scripts.dll file in:
+F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 
 # 药剂工艺 打开配方书按钮修复
 
-此Mod适用于药剂工艺v2.0版本。
+此模组兼容魔法药剂师 v2.0.1.2 版本。
 
-这是我自己编写的小插件，用于修复打开配方书的按钮随着游戏游玩而导致其碰撞器越来越大的问题，在你点击配方书按钮的打开配方书的时候，这个插件会为你检查按钮的碰撞器，如果它变大了，则会将其设置回原来的大小。
+我重新修改了游戏的PotionCraft.Scripts.dll文件来解决这个问题。现在你不需要任何其他额外的插件框架，直接替换该文件就能解决配方书的按钮问题。如果游戏更新了，你可能无法使用这个文件。
 
 # 安装说明
 
-1. 在GitHub下载并安装 [BepInEx_x64_5.4.22][0]
-2. 将ClassLibrary1.dll解压到Potion Craft\BepInEx\plugins文件夹。
+1. 在右侧找到并下载本项目的Release (名称为PotionCraft.Scripts.zip)，并解压得到PotionCraft.Scripts.dll文件。
+2. 备份并替换您的游戏中同名的PotionCraft.Scripts.dll文件，通常是在Potion Craft\Potion Craft_Data\Managed目录下。
 
-[0]: https://github.com/BepInEx/BepInEx/releases
+完整的目录示例：
+(假设您的本地游戏文件在路径 F:\SteamLibrary\steamapps\common\Potion Craft)
+那么你应该将下载的PotionCraft.Scripts.dll文件放置到：
+F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
