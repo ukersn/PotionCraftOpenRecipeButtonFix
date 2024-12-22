@@ -14,6 +14,11 @@ Complete directory example:
 You should place the downloaded PotionCraft.Scripts.dll file in:
 F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 
+# My Other Projects
+
+[Auto Garden][1] : Tired of the daily routine of watering plants and harvesting vegetables? Auto Garden is here to help. It can perform all the harvesting and watering actions in your garden for you.
+
+
 # 药剂工艺 打开配方书按钮修复
 
 此模组兼容魔法药剂师 v2.0.1.2 版本。
@@ -30,4 +35,9 @@ F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 那么你应该将下载的PotionCraft.Scripts.dll文件放置到：
 F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 
+# 我的其他项目
+
+[自动花园][1] : 厌倦每天日常浇花和收菜的生活了么？自动花园来了，它可以帮您完成花园中所有的收获和浇水的动作。
+
 [0]: https://github.com/ukersn/PotionCraftOpenRecipeButtonFix/releases/tag/v2.0.1.2
+[1]: https://github.com/ukersn/PotionCraftAutoGarden
