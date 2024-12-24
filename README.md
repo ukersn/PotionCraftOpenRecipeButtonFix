@@ -19,6 +19,9 @@ F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 [Auto Garden][1] : Tired of the daily routine of watering plants and harvesting vegetables? Auto Garden is here to help. It can perform all the harvesting and watering actions in your garden for you.
 
 
+[Ukersn's Tweak Wizard][2]: Allows unrestricted planting of plants and crystals, and features to improve game FPS.
+
+
 # 药剂工艺 打开配方书按钮修复
 
 此模组兼容魔法药剂师 v2.0.1.2 版本。
@@ -39,5 +42,10 @@ F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 
 [自动花园][1] : 厌倦每天日常浇花和收菜的生活了么？自动花园来了，它可以帮您完成花园中所有的收获和浇水的动作。
 
+[Ukersn的游戏调整优化][2] : 允许植物和水晶无限制的种植，还有提升游戏FPS帧数的功能。
+
+
+
 [0]: https://github.com/ukersn/PotionCraftOpenRecipeButtonFix/releases/tag/v2.0.1.2
 [1]: https://github.com/ukersn/PotionCraftAutoGarden
+[2]: https://github.com/ukersn/Potion-Craft-Ukersn-s-TweakWizard
