@@ -21,6 +21,9 @@ F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 
 [Ukersn's Tweak Wizard][2]: Allows unrestricted planting of plants and crystals, and features to improve game FPS.
 
+[Potion Craft Game Save Error Fixer/Editor][3] : Used to fix game save errors (corrupted saves)
+
+
 
 # 药剂工艺 打开配方书按钮修复
 
@@ -44,8 +47,10 @@ F:\SteamLibrary\steamapps\common\Potion Craft\Potion Craft_Data\Managed\
 
 [Ukersn的游戏调整优化][2] : 允许植物和水晶无限制的种植，还有提升游戏FPS帧数的功能。
 
+[Potion Craft 游戏存档错误修复器/编辑器][3]  ： 用于修复游戏存档错误(坏档)
 
 
 [0]: https://github.com/ukersn/PotionCraftOpenRecipeButtonFix/releases/tag/v2.0.1.2
 [1]: https://github.com/ukersn/PotionCraftAutoGarden
 [2]: https://github.com/ukersn/Potion-Craft-Ukersn-s-TweakWizard
+[3]: https://github.com/ukersn/Potion-Craft-Save-File-Error-Fixer-Editor
